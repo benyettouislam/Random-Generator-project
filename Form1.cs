@@ -112,6 +112,8 @@ namespace Random_Generato_project
                 {
                     int Number = random.Next(1, 4);
                    enStatus status2 = (enStatus)Number;
+                   enSize size2 = size;
+
                     if (status2 == enStatus.Letters)
                     {
                         Number = random.Next(1, 3);
