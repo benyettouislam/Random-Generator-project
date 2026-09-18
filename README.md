@@ -27,3 +27,8 @@ This project uses the following technologies:
 * C# Event Handling and Control Structures
 * Windows Forms Desktop Application Design
 * Random generation algorithms
+
+
+https://github.com/user-attachments/assets/776dc2cd-1c24-43f8-bb9d-61080ea7586a
+
+<img width="482" height="338" alt="2" src="https://github.com/user-attachments/assets/8b8a04cb-8833-4644-b64f-adbff9dfe1bb" />
